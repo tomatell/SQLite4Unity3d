@@ -1,0 +1,17 @@
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\bin\ARM\Release\SQLite.WinRT.dll
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\priconfig.xml
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\layout.resfiles
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\resources.resfiles
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\pri.resfiles
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\qualifiers.txt
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\bin\ARM\Release\SQLite4Unity3d.dll
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\bin\ARM\Release\SQLite4Unity3d.pdb
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\bin\ARM\Release\SQLite4Unity3d.pri
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\SQLite4Unity3d.dll
+C:\Users\tanakat\Documents\development\SQLite4Unity3d-master\SQLite4Unity3d\SQLite4Unity3dWSA8.1\obj\ARM\Release\SQLite4Unity3d.pdb
