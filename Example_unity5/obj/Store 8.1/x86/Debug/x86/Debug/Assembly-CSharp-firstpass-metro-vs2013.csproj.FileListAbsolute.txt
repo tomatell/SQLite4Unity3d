@@ -1,0 +1,17 @@
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\obj\Store 8.1\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

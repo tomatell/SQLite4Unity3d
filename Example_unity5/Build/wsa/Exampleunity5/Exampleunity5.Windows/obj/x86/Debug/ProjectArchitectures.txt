@@ -1,0 +1,1 @@
+C:\Users\Tom\Documents\development\SQLite4Unity3d\Example_unity5\Build\wsa\Exampleunity5\Exampleunity5.Windows\Exampleunity5.Windows.csproj;x86

@@ -1,0 +1,18 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\assembly-csharp.dll" HashGuid="cda1e29a-c7a3-e497-6e22-d8c53ed6e922" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\players\windowsphone81\arm\debug\bridgeinterface.winmd" HashGuid="29d1480c-e208-3aeb-3e63-d35a361e364e" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\sqlite.winmd" HashGuid="baa47e38-7a12-ba79-264e-f95e25ecb6ad" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\sqlite4unity3d.dll" HashGuid="3700b2f2-5587-7066-4cc9-40434f39f110" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\unityengine.analytics.dll" HashGuid="e81238e7-e637-4fb7-fc6e-f0dd8fb8dcd4" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\unityengine.dll" HashGuid="48c491fa-6b14-35b1-604c-95cb22853d98" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\unityengine.networking.dll" HashGuid="c2a2a2fd-7cee-9267-b331-8eebbd0958a0" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\unityengine.ui.dll" HashGuid="2307a7a8-a76b-90d0-61e1-c17b3ca95e2a" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\players\windowsphone81\arm\debug\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\players\windowsphone81\arm\debug\unityengineproxy.dll" HashGuid="c68902b1-e655-bdea-7e4a-c1ebeeed34ec" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\players\windowsphone81\arm\debug\unityplayer.winmd" HashGuid="3c25c20f-85e3-30bb-aafb-ba1498c439ca" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\players\windowsphone81\arm\debug\winrtbridge.winmd" HashGuid="cce12753-ae4d-cc62-edc3-78e58137ca82" />
+    <ReferenceAssembly PathName="c:\users\tom\documents\development\sqlite4unity3d\example_unity5\build\wsa\exampleunity5\exampleunity5.windowsphone\winrtlegacy.dll" HashGuid="a57794e0-a962-6ee3-cedc-afe40e0e5df7" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
